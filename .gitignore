@@ -1,0 +1,11 @@
+log/
+*.log
+tmp/
+*.tmp
+node_modules/
+bower_components/
+build/
+dist/
+*.exe
+.env
+config.ini
